@@ -23,7 +23,7 @@ subtitle = ""
 [[feature]]
   icon = "toolbox"
   icon_pack = "fas"
-  name = "Woodworking"
+  name = "saw"
   description = "100%"  
   
 [[feature]]
