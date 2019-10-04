@@ -14,7 +14,9 @@ role: Postdoctoral Research Associate
 
 # Organizations/Affiliations
 organizations:
-- name: Digital Agriculture Lab, Biological and Agricultural Engineering, UC Davis
+- name: Digital Agriculture Lab, 
+  Dept. of Biological and Agricultural Engineering 
+  UC Davis
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -76,6 +78,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I am a postdoctoral scholar at the University of California, Davis. I am passionate about conducting interdisciplinary research centered at the food-water-energy nexus. My current research focuses on applying innovative technologies (LiDAR and multispectral/hyperspectral imaging), automation (UAVs), and artificial intelligence (machine learning and deep learning algorithms) in agriculture to facilitate the digital revolution in agriculture.
