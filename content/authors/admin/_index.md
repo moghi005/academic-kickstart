@@ -14,7 +14,9 @@ role: Postdoctoral Research Associate
 
 # Organizations/Affiliations
 organizations:
-- name: Digital Agriculture Lab  Dept. of Biological and Agricultural Engineering  UC Davis
+- name: Digital Agriculture Lab\s\s
+        Dept. of Biological and Agricultural Engineering\s\s
+        UC Davis
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -22,12 +24,12 @@ bio: My research interests include artificial intelligence, remote sensing.
 
 interests:
 - Artificial Intelligence
-    - Machine learning
-    - Deep learning
+    -- Machine learning
+    -- Deep learning
 - Remote Sensing
-    - Hyperspectral/Multispectral imaging
-    - UAV-based aerial imagery
-    - LiDAR
+    -- Hyperspectral/Multispectral imaging
+    -- UAV-based aerial imagery
+    -- LiDAR
 - Precision Agriculture
 - Internet of Things
 
