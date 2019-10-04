@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Postdoctoral Scholar
+role: Postdoctoral Research Associate
 
 # Organizations/Affiliations
 organizations:
-- name: Digital Agriculture Lab, UC Davis
+- name: Digital Agriculture Lab, Biological and Agricultural Engineering, UC Davis
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -23,6 +23,8 @@ bio: My research interests include artificial intelligence, remote sensing.
 interests:
 - Artificial Intelligence
 - Remote Sensing
+- Precision Agriculture
+- Internet of Things
 
 education:
   courses:
