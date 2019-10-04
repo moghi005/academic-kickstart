@@ -21,15 +21,15 @@ organizations:
 bio: My research interests include artificial intelligence, remote sensing.
 
 interests:
-- Artificial Intelligence<br\>
-    - Machine learning
+- Artificial Intelligence<br/>
+    - Machine learning<br/>
     - Deep learning
-- Remote Sensing<br\>
-    - Hyperspectral/Multispectral imaging<br\>
-    - RGB imaging<br\>
-    - UAV-based aerial imagery<br\>
+- Remote Sensing<br/>
+    - Hyperspectral/Multispectral imaging<br/>
+    - RGB imaging<br/>
+    - UAV-based aerial imagery<br/>
     - LiDAR
-- Digital Agriculture<br\>
+- Digital Agriculture
 - Internet of Things
 - High-throughput Phenotyping
 
