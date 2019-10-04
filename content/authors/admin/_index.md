@@ -63,7 +63,7 @@ social:
   icon_pack: fab
   link: https://github.com/moghi005
 - icon: linkedin
-  icon_pack: fao
+  icon_pack: fab
   link: https://www.linkedin.com/in/ali-moghimi-36970477/
   
 # Link to a PDF of your resume/CV from the About widget.
