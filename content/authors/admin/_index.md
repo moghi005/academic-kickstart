@@ -25,9 +25,8 @@ interests:
     - Machine learning<br/>
     - Deep learning
 - Remote Sensing<br/>
-    - Hyper-/Multi-spectral imaging<br/>
-    - RGB imaging<br/>
     - UAV-based aerial imagery<br/>
+    - Hyper-/Multi-spectral imaging<br/>
     - LiDAR
 - Digital Agriculture
 - Internet of Things
@@ -35,15 +34,18 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: PhD in Biosystems Engineering
+    institution: University of Minnesota
+    year: 2019
+  - course: PhD minor in Computer Science and Engineering
+    institution: University of Minnesota
+    year: 2019
+  - course: MSc Mechanics of Agricultural Machinery
+    institution: Ferdowsi University of Mashhad 
     year: 2008
+  - course: BSc in Agricultural Engineering
+    institution: Bahonar University of Kerman 
+    year: 2004
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
