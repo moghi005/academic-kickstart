@@ -60,7 +60,7 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/moghi005
-- icon: fa-linkedin
+- icon: linkedin
   icon_pack: fao
   link: https://www.linkedin.com/in/ali-moghimi-36970477/
   
