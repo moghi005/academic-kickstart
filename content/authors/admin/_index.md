@@ -25,9 +25,9 @@ interests:
     - Machine learning
     - Deep learning
 - Remote Sensing<br\>
-    - Hyperspectral/Multispectral imaging
-    - RGB imaging
-    - UAV-based aerial imagery
+    - Hyperspectral/Multispectral imaging<br\>
+    - RGB imaging<br\>
+    - UAV-based aerial imagery<br\>
     - LiDAR
 - Digital Agriculture<br\>
 - Internet of Things
