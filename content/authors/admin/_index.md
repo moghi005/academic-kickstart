@@ -25,13 +25,13 @@ interests:
     - Machine learning<br/>
     - Deep learning
 - Remote Sensing<br/>
-    - Hyperspectral/Multispectral imaging<br/>
+    - Hyper-/Multi-spectral imaging<br/>
     - RGB imaging<br/>
     - UAV-based aerial imagery<br/>
     - LiDAR
 - Digital Agriculture
 - Internet of Things
-- High-throughput Phenotyping
+- High-throughput Plant Phenotyping
 
 education:
   courses:
@@ -52,7 +52,8 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:amoghimi@ucdavis.edu".
+  link: mailto:amoghimi@ucdavis.edu
+  # link: '#contact'  # For a direct email link, use "mailto:amoghimi@ucdavis.edu".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/home
@@ -85,6 +86,6 @@ user_groups:
 - Visitors
 ---
 
-I am a postdoctoral scholar at the University of California, Davis. I am passionate about conducting interdisciplinary research centered at the food-water-energy nexus. My current research focuses on applying innovative technologies (LiDAR and multispectral/hyperspectral imaging), automation (UAVs), and artificial intelligence (machine learning and deep learning algorithms) in agriculture to facilitate the digital revolution in agriculture. TEST
+I am a postdoctoral scholar at the University of California, Davis. I am passionate about conducting interdisciplinary research centered at the food-water-energy nexus. My current research focuses on applying innovative technologies (LiDAR and multispectral/hyperspectral imaging), automation (UAVs), and artificial intelligence (machine learning and deep learning algorithms) in agriculture to facilitate the digital revolution in agriculture.
 
 
