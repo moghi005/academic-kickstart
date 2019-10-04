@@ -14,9 +14,7 @@ role: Postdoctoral Research Associate
 
 # Organizations/Affiliations
 organizations:
-- name: Digital Agriculture Lab, 
-  Dept. of Biological and Agricultural Engineering 
-  UC Davis
+- name: Digital Agriculture Lab, Dept. of Biological and Agricultural Engineering, UC Davis
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
