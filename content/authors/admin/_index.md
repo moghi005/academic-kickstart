@@ -23,8 +23,6 @@ bio: My research interests include artificial intelligence, remote sensing.
 interests:
 - Artificial Intelligence
 - Remote Sensing
-1. RS
-2. AI
 
 education:
   courses:
