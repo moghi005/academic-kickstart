@@ -14,10 +14,10 @@ role: Postdoctoral Research Associate
 
 # Organizations/Affiliations
 organizations:
-- name: Digital Agriculture Lab\s\s
-        Dept. of Biological and Agricultural Engineering\s\s
-        UC Davis
-  url: ""
+- name: Digital Agriculture Lab<br/>
+        Dept. of Biological and Agricultural Engineering<br/>
+        University of California, DAVIS
+  url: "https://digitalag.ucdavis.edu/people/ali-moghimi"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include artificial intelligence, remote sensing.
