@@ -65,6 +65,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/ali-moghimi-36970477/
+- icon: orcid
+  icon_pack: fab
+  link: https://orcid.org/0000-0002-9249-8365?lang=en
   
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
