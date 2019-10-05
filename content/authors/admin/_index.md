@@ -58,7 +58,7 @@ social:
   # link: '#contact'  # For a direct email link, use "mailto:amoghimi@ucdavis.edu".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/home
+  link: https://twitter.com/A_Moghimi
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=_8VHrfAAAAAJ&hl=en
