@@ -12,4 +12,5 @@ view: 4
 header:
   caption: "yield_prediction"
   image: "yield_prediction.png"
+  
 ---
