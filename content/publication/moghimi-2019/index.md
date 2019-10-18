@@ -8,5 +8,8 @@ abstract: "Crop production needs to increase in a sustainable manner to meet the
 featured: false
 publication: "*arXiv preprint, arXiv:1906.09666 [cs.CV].*"
 url_pdf: "http://arxiv.org/abs/1906.09666"
+header:
+  caption: "yield_prediction"
+  image: "yield_prediction.png"
 ---
 
