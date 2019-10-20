@@ -8,5 +8,7 @@ abstract: ""
 featured: false
 publication: "*Frontiers in Plant Science*"
 doi: "10.3389/fpls.2018.01182"
+image:
+	caption: "Salt Stress Phenotyping"
 ---
 
