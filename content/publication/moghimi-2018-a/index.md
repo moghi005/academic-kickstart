@@ -10,6 +10,7 @@ publication: "*IEEE Access*"
 tags: ["Band selection", "classification", "ensemble feature selection", "hyperspectral imaging", "machine learning", "multispectral imging", "plant phenotyping", "salt stress", "wheat"]
 doi: "10.1109/ACCESS.2018.2872801"
 image:
-	caption: "Spectral Feature Selection"
+  caption: "Spectral_Feature_Selection"
+  
 ---
 
