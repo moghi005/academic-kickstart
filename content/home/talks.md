@@ -9,6 +9,7 @@ weight = 80  # Order that this section will appear.
 
 title = "Recent & Upcoming Talks"
 subtitle = ""
+{{< youtube zyQpKUFGo6U&t=11s >}}
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
