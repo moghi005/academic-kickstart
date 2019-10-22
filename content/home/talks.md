@@ -9,7 +9,6 @@ weight = 80  # Order that this section will appear.
 
 title = "Recent & Upcoming Talks"
 subtitle = ""
-{{< youtube id="zyQpKUFGo6U&t=11s" >}}
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
@@ -67,4 +66,7 @@ subtitle = ""
  
  # CSS class.
  css_class = ""
+ 
+ {{< youtube id="zyQpKUFGo6U&t=11s" >}}
+
 +++
