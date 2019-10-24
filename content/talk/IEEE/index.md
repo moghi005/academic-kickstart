@@ -21,7 +21,7 @@ date: 2019-09-24T08:30:00PDT
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2019-09-24T08:30:00PDT
+publishDate: 2019-09-24T08:30:00
 
 authors: []
 tags: []
