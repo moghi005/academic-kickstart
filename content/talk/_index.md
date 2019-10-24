@@ -13,4 +13,3 @@ header:
   image: ""
   
 ---
-{{< youtube id="zyQpKUFGo6U&t=11s" >}}
