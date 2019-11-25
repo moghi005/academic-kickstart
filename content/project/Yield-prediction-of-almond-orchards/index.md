@@ -45,4 +45,4 @@ Our main goal is to leverage aerial robotics, cutting edge sensing technologies,
 algorithms to:
 * Evaluate the canopy size of almond trees in a more affordable, accurate, and
 efficient manner. The proposed solution is expected to be an alternative to the [mobile platform lightbar](https://link.springer.com/article/10.1007/s11119-015-9387-8) for assessing canopy cover and canopy light interception in almond.
-* Estimate yield of almond trees by fusion of uav-based LiDAR data and hyperspectral images.
+* Estimate yield of almond trees by fusion of UAV-based LiDAR data and hyperspectral images.
