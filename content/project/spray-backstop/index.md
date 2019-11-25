@@ -46,5 +46,5 @@ slides: ""
 
 This study aims to develop a low-maintenance system to reduce spray drift without limiting the spray delivery. The ultimate goal of this study is to improve the environmental aspect of almond production by decreasing spray drift. 
 
-We have successfully tested the first prototype of the a sprayer attachment system (Spray Backstop) at the Nickels Soil Lab. The backstop structure is able to effectively block the spray cloud that escapes the tree tops. Please check the aerial footage of our first experiment [here at YouTube](https://www.youtube.com/watch?time_continue=2&v=vl2oYxIl4HI&feature=emb_logo).
+We have successfully tested the first prototype of the a sprayer attachment system (Spray Backstop) at the [Nickels Soil Lab](http://cecolusa.ucanr.edu/Pomology/). The backstop structure is able to effectively block the spray cloud that escapes the tree tops. Please check the aerial footage of our first experiment [here at YouTube](https://www.youtube.com/watch?time_continue=2&v=vl2oYxIl4HI&feature=emb_logo).
 
