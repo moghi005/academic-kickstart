@@ -40,4 +40,4 @@ url_video: ""
 slides: ""
 ---
 
-{{< youtube vl2oYxIl4HI&feature >}}
+{{< youtube id="vl2oYxIl4HI&feature" >}}
