@@ -51,8 +51,13 @@ Radiometric calibration of aerial spectral images is a key step before post-proc
 # Micasense RedEdge
 We mounted the RedEdge camera on a DJI Matrice 210. To convert the raw multispectral images to radiance, we developed a Python script that generates radiometrically-calibrated stacked multispectral images in a batch processing manner using the information embedded in the header file of images. To convert radiance images to reflectance, the algorithm offers three options to calculate the incoming irradiance: (i) using the images captured from the Micasense panel (or a tarp with a known reflectivity) before the flight mission, (ii) using the downwelling light sensor (DLS) data, and (iii) using the DLS data refined by a site-specific compensation factor which is a ratio between the irradiance computed using the panel to the irradiance measured by DLS.
 
+![This is an image](/img/MS_radiometric-calibration.png)
+
 # Resonon PIKA L
 We mounted the PIKA L camera on a DJI Matrice 600Pro. To convert the raw hyperspectral images to radiance, we used a vendor-supplied calibration file and Spectronon software. Similar to the multispectral images, we converted the hyperspectral images in radiance to reflectance using the incoming irradiance calculated through the above-mentioned options. However, instead of the Micasense panel, we used a tarp with 26% reflectivity.  
+
+![This is an image](/img/HS_radiometric-calibration.png)
+
 
 # Flight Missions
 We flew with both sensors over a tarp composed of three 1x3 meter fabric with 6%, 12%, and 25% reflectivity several times, each of which with various gain/exposure settings. We examined six and four gain/exposure settings for multispectral and hyperspectral imaging, respectively.
@@ -60,4 +65,4 @@ We flew with both sensors over a tarp composed of three 1x3 meter fabric with 6%
 The quantitative results in the figures demonstrates the significance of radiance conversion in reduction of the uncertainty caused by inconsistence sensor factors, and subsequently, assure the repeatability of a proposed analysis pipeline.
 
 # Conclusion
-In this study, we examined the importance of radiometric calibration with the focus on radiance conversion which is commonly overlooked in the calibration process. However, radiance conversion is important to account for sensor-dependent factors such as gain and exposure time. The results demonstrated that the reflectance values of each tarp (with 6%, 12%, and 25% reflectivity) was a function of camera settings due to ignoring radiance conversion (i.e., converting raw images directly to reflectance). Our findings underscore the importance of radiance conversion to assure the repeatability of a proposed analysis pipeline over various flight missions, dates, weather conditions, and imagers. 
+In this study, we examined the importance of radiometric calibration with the focus on radiance conversion which is commonly overlooked in the calibration process. However, radiance conversion is important to account for sensor-dependent factors such as gain and exposure time. The results demonstrated that the reflectance values of each tarp (with 6%, 12%, and 25% reflectivity) was a function of camera settings due to ignoring radiance conversion (i.e., converting raw images directly to reflectance). Our findings underscore the importance of radiance conversion to assure the repeatability of a proposed analysis pipeline over various flight missions, dates, weather conditions, and imagers.
