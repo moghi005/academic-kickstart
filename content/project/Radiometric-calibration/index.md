@@ -54,7 +54,6 @@ We mounted the RedEdge camera on a DJI Matrice 210. To convert the raw multispec
 
 # Resonon PIKA L
 We mounted the PIKA L camera on a DJI Matrice 600Pro. To convert the raw hyperspectral images to radiance, we used a vendor-supplied calibration file and Spectronon software. Similar to the multispectral images, we converted the hyperspectral images in radiance to reflectance using the incoming irradiance calculated through the above-mentioned options. However, instead of the Micasense panel, we used a tarp with 26% reflectivity.  
-
 ![picture](/img/HS_radiometric-calibration.png)
 
 
