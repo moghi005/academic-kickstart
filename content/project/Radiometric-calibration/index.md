@@ -22,10 +22,17 @@ image:
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 # links:
+<<<<<<< HEAD
 #name: Follow
 #url: https://twitter.com/a_moghimi/status/1232779692555390976?s=21
 #icon_pack: fab
 #icon: twitter
+=======
+# name: Follow
+# url: https://twitter.com/a_moghimi/status/1232779692555390976?s=21
+# icon_pack: fab
+# icon: twitter
+>>>>>>> 4080aadd9633314a82cfd95a6c1291dab33c7a02
 
 url_code: ""
 url_pdf: ""
@@ -39,7 +46,6 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: "Poster_Phenome2020_AliMoghimi.pdf"
 ---
-
 # Research Objective:
 
 Radiometric calibration of aerial spectral images is a key step before post-processing to assure the repeatability of a proposed analysis pipeline over various flight missions, dates, weather conditions, and imagers. An appropriate radiometric calibration process has two main steps: (i) converting raw images to radiance (Wm-2sr-1nm-1) to account for sensor-dependent factors such as spatial and spectral inconsistency in detectors of the camera (e.g., gain, offset, and quantum efficiency), (ii) converting radiance images to reflectance to account for variation in intensity of incident light over time. The objectives are to (i) examine the importance of radiometric calibration with the focus on radiance conversion, and (ii) to identify the appropriate approach for reflectance conversion. In this study, we used a multispectral camera (Micasense RedEdge) and a hyperspectral camera (Resonon PIKA L).
