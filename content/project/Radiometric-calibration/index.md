@@ -66,3 +66,7 @@ The quantitative results in the figures demonstrates the significance of radianc
 
 # Conclusion
 In this study, we examined the importance of radiometric calibration with the focus on radiance conversion which is commonly overlooked in the calibration process. However, radiance conversion is important to account for sensor-dependent factors such as gain and exposure time. The results demonstrated that the reflectance values of each tarp (with 6%, 12%, and 25% reflectivity) was a function of camera settings due to ignoring radiance conversion (i.e., converting raw images directly to reflectance). Our findings underscore the importance of radiance conversion to assure the repeatability of a proposed analysis pipeline over various flight missions, dates, weather conditions, and imagers.
+<<<<<<< HEAD
+=======
+
+>>>>>>> ad966ec16399853acab6843654f1f9818aa07726
