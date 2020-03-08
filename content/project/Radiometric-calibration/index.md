@@ -50,11 +50,11 @@ Radiometric calibration of aerial spectral images is a key step before post-proc
 
 # Micasense RedEdge
 We mounted the RedEdge camera on a DJI Matrice 210. To convert the raw multispectral images to radiance, we developed a Python script that generates radiometrically-calibrated stacked multispectral images in a batch processing manner using the information embedded in the header file of images. To convert radiance images to reflectance, the algorithm offers three options to calculate the incoming irradiance: (i) using the images captured from the Micasense panel (or a tarp with a known reflectivity) before the flight mission, (ii) using the downwelling light sensor (DLS) data, and (iii) using the DLS data refined by a site-specific compensation factor which is a ratio between the irradiance computed using the panel to the irradiance measured by DLS.
-![all text](/img/MS_radiometric-calibration.png)
+![all text](MS_radiometric-calibration.png)
 
 # Resonon PIKA L
 We mounted the PIKA L camera on a DJI Matrice 600Pro. To convert the raw hyperspectral images to radiance, we used a vendor-supplied calibration file and Spectronon software. Similar to the multispectral images, we converted the hyperspectral images in radiance to reflectance using the incoming irradiance calculated through the above-mentioned options. However, instead of the Micasense panel, we used a tarp with 26% reflectivity.  
-![picture](/img/HS_radiometric-calibration.png)
+![picture](HS_radiometric-calibration.png)
 
 
 # Flight Missions
