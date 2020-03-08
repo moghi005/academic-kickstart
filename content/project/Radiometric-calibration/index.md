@@ -21,11 +21,11 @@ image:
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-links:
-name: Follow
-url: https://twitter.com/a_moghimi/status/1232779692555390976?s=21
-icon_pack: fab
-icon: twitter
+# links:
+#name: Follow
+#url: https://twitter.com/a_moghimi/status/1232779692555390976?s=21
+#icon_pack: fab
+#icon: twitter
 
 url_code: ""
 url_pdf: ""
