@@ -9,5 +9,5 @@ featured: false
 publication: "*Remote Sensing*"
 tags: ["color imaging", "deep neural network", "fusarium head blight disease"]
 doi: "10.20944/preprints201910.0056.v1"
----
+--- 
 
