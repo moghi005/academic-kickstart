@@ -4,7 +4,7 @@
 title: "Artificial intelligence and hyperspectral imaging for high-throughput plant phenotyping"
 event: IEEE Robotics and Automation Society - Agricultural Robotics and Automation
 event_url: http://ieeeagra.com/events/webinar-september-24-2019/
-location: 
+location:
 address:
   street:
   city:
@@ -12,7 +12,7 @@ address:
   postcode:
   country:
 summary:
-abstract: 
+abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -30,7 +30,7 @@ tags: []
 featured: false
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
@@ -68,3 +68,4 @@ projects: []
 
 ---
 {{< youtube id="zyQpKUFGo6U&t=11s" >}}
+# <iframe width="560" height="315" src="https://www.youtube.com/embed/zyQpKUFGo6U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
